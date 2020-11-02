@@ -1,0 +1,1 @@
+Kotlin is a general-purpose programming language with type inference. It is designed to be completely interoperable with Java. It is an advanced language.

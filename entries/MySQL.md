@@ -1,0 +1,1 @@
+MySQL Database Service is a fully managed database service to deploy cloud-native applications using the world's most popular open source database.

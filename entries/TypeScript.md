@@ -1,0 +1,1 @@
+TypeScript, a superset of JavaScript is an object-oriented language that was introduced to extend the capabilities of JS.
